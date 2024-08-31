@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="banner.png" alt="Banner de arrivaldo" style="width:100%;">
+<img src="banner1.png" alt="Banner de arrivaldo" style="width:100%;">
 <!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickbarcena7/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ErickBarcena)
@@ -30,6 +30,8 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+
 
 
 
