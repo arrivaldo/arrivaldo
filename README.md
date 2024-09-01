@@ -1,4 +1,3 @@
-#  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY2dHpoN3Bta29mZW82eDgxNHN2amk5NGNta2h6bmx0N3BtZmYyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="200"/>Welcome! 👋
 
 <img src="banner1.png" alt="Banner de arrivaldo" style="width:100%;">
 <!--
