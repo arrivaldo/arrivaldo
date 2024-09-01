@@ -100,10 +100,9 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 </div>
 
 
-
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&show_icons=true&theme=transparent)](https://github.com/arrivaldo/github-readme-stats)
+
+
+### Profile views counter 👁️‍🗨️
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
