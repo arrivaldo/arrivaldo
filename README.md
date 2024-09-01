@@ -105,4 +105,4 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&show_icons=true)](https://github.com/arrivaldo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&show_icons=true&theme=transparent)](https://github.com/arrivaldo/github-readme-stats)
