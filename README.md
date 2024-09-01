@@ -31,7 +31,7 @@
 </a>  
 </div>  
 
-
+<br>
 
 
 
@@ -39,10 +39,10 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 
 * 🌍  I'm based in México, Querétaro.
 * 🖥️  See my portfolio at [https://engineerickcodes.vercel.app/](http://https://engineerickcodes.vercel.app/)
-* ✉️  You can contact me at [erickbarcena00@gmail.com](mailto:erickbarcena00@gmail.com)
-* 🧠  I'm learning Amason Web Services (AWS).
-* 🤝  I'm open to collaborating on Open Source and Client Projects.
-* ⚡  I;m currently looking for new opportunities.
+* ✉️  Alternatively you can contact me at [erickbarcena00@gmail.com](mailto:erickbarcena00@gmail.com)
+* 🧠  I'm currently learning Amason Web Services (AWS).
+* 🤝  I'm open to collaborate on open source and private projects.
+* ⚡  I'm currently looking to contribute with people and business.
 
 
 
