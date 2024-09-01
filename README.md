@@ -104,5 +104,18 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&show_icons=true&theme=transparent)](https://github.com/arrivaldo/github-readme-stats)
 
 
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=arrivaldo&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
 ### Profile views counter 👁️‍🗨️
 [![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/arrivaldo)
