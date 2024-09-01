@@ -100,9 +100,11 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 </div>
 
 ### Certifications:
-![Static Badge](https://img.shields.io/badge/System%20Architect--blue)
-![Static Badge](https://img.shields.io/badge/Business%20Architect--pink)
-![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow)
+![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow?style=social)
+
+![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow?style=social)
+
+![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow?style=social)
 
 
 
