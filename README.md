@@ -95,8 +95,8 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
-<div id="header" align="center" style="width:100%;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY2dHpoN3Bta29mZW82eDgxNHN2amk5NGNta2h6bmx0N3BtZmYyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif"/>
+<div id="header" align="center" >
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY2dHpoN3Bta29mZW82eDgxNHN2amk5NGNta2h6bmx0N3BtZmYyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="200"/>
 </div>
 
 
