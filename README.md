@@ -55,7 +55,7 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 -->
 
 
-### Skills
+### Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -99,7 +99,7 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY2dHpoN3Bta29mZW82eDgxNHN2amk5NGNta2h6bmx0N3BtZmYyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="200"/>
 </div>
 
-### Github Stats
+### Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&show_icons=true&theme=transparent)](https://github.com/arrivaldo/github-readme-stats)
 
