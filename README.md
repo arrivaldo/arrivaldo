@@ -1,4 +1,4 @@
-##  <img src="https://media.giphy.com/media/nZ0ge31mF2okmgrsSb/giphy.gif?cid=ecf05e47etj8icok0v4icwg0cadzjw8asvdx8l3jtd47a3kl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"/>Welcome to my Github profile! 👋<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+##  <img src="https://media.giphy.com/media/nZ0ge31mF2okmgrsSb/giphy.gif?cid=ecf05e47etj8icok0v4icwg0cadzjw8asvdx8l3jtd47a3kl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"/>Welcome to my Github profile! 👋<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <img src="banner3.png" alt="Banner de arrivaldo" style="width:100%;">
 <!--
