@@ -104,7 +104,12 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 ![Static Badge](https://img.shields.io/badge/Business%20Architect--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow?style=social)
 
-
+### Awesome clients I've helped:
+![Static Badge](https://img.shields.io/badge/Munich%20RE--blue?style=flat-square&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Popular%20Bank--yellow?style=flat-square&labelColor=white)
+![Static Badge](https://img.shields.io/badge/FEMSA--red?style=flat-square&labelColor=white)
+![Static Badge](https://img.shields.io/badge/CLARO%20360--green?style=flat-square&labelColor=white)
+![Static Badge](https://img.shields.io/badge/MIRA--violet?style=flat-square&labelColor=white)
 
 ### Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
