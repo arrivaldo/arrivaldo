@@ -33,7 +33,8 @@
 
 <br>
 
-<strong> Mechatronic Engineer with 6+ years of experience delivering high technical engineering solutions, by contributing across 10+ impactful software projects for multiple international clients. With 4+ years of expertise in full-stack development and 2+ years of experience as a QA Analyst, leading quality assurance procedures. Experienced building high quality software, managing cross functional teams and collaborating with stakeholders and IT colleagues to achieve business objectives. </strong>.
+ <strong> 
+Mechatronic Engineer with 6+ years of experience delivering high technical engineering solutions, by contributing across 10+ impactful software projects for multiple international clients. With 4+ years of expertise in full-stack development and 2+ years of experience as a QA Analyst, leading quality assurance procedures. Experienced building high quality software, managing cross functional teams and collaborating with stakeholders and IT colleagues to achieve business objectives. </strong>.
 
 
 #### * 🌍  I'm based in México, Querétaro.
