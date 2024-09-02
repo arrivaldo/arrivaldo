@@ -41,7 +41,7 @@
 ### * 🌍  I'm based in México, Querétaro.
 ### * 🖥️  See my portfolio at [https://engineerickcodes.vercel.app/](http://https://engineerickcodes.vercel.app/)
 ### * ✉️  Alternatively you can contact me at [erickbarcena00@gmail.com](mailto:erickbarcena00@gmail.com)
-### * 🧠  I'm currently learning Amason Web Services (AWS).
+### * 🧠  I'm currently learning: Amason Web Services (AWS).
 ### * 🤝  I'm open to collaborate on open source and private projects.
 ### * ⚡  I'm currently looking to contribute with people and business.
 
