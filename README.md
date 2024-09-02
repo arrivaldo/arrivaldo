@@ -101,7 +101,7 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 
 ### Awesome clients I've helped:
 ![Static Badge](https://img.shields.io/badge/Munich%20RE--yellow?style=social)
-![Static Badge](https://img.shields.io/badge/Popular20Bank--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Popular%20Bank--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/FEMSA--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/CLARO%20360--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/MIRA--yellow?style=social)
