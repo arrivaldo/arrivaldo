@@ -99,17 +99,17 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY2dHpoN3Bta29mZW82eDgxNHN2amk5NGNta2h6bmx0N3BtZmYyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="200"/>
 </div>
 
+### Awesome clients I've helped:
+![Static Badge](https://img.shields.io/badge/Munich%20RE-white?style=flat)
+![Static Badge](https://img.shields.io/badge/Popular%20Bank-white?style=flat)
+![Static Badge](https://img.shields.io/badge/FEMSA-white?style=flat)
+![Static Badge](https://img.shields.io/badge/CLARO%20360-white?style=flat)
+![Static Badge](https://img.shields.io/badge/MIRA-white?style=flat)
+
 ### Certifications:
 ![Static Badge](https://img.shields.io/badge/Pega%20System%20Architect--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/Business%20Architect--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow?style=social)
-
-### Awesome clients I've helped:
-![Static Badge](https://img.shields.io/badge/Munich%20RE--blue?style=flat-square&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Popular%20Bank--yellow?style=flat-square&labelColor=white)
-![Static Badge](https://img.shields.io/badge/FEMSA--red?style=flat-square&labelColor=white)
-![Static Badge](https://img.shields.io/badge/CLARO%20360--green?style=flat-square&labelColor=white)
-![Static Badge](https://img.shields.io/badge/MIRA--violet?style=flat-square&labelColor=white)
 
 ### Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
