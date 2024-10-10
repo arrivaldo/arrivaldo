@@ -38,7 +38,7 @@ Mechatronic Engineer with 6+ years of experience delivering high technical engin
 
 
 #### * 🌍  I'm based in México, Querétaro.
-#### * 🖥️  See my portfolio at: [https://engineerickcodes.vercel.app/](http://https://engineerickcodes.vercel.app/)
+#### * 🖥️  See my portfolio at: [https://engineerick-portfolio.vercel.app/](https://engineerick-portfolio.vercel.app/)
 #### * ✉️  Alternatively you can contact me at: [erickbarcena00@gmail.com](mailto:erickbarcena00@gmail.com)
 #### * 🧠  I'm currently learning: Amason Web Services (AWS).
 #### * 🤝  I'm open to collaborate on open source and private projects.
