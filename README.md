@@ -34,7 +34,7 @@
 <br>
 
  <strong> 
-Mechatronic Engineer with 8+ years of experience delivering high-technical engineering solutions across 21+ impactful projects for diverse international clients. With expertise in full-stack development, automation engineering and quality assurance, I'm adept at creating innovative technology solutions, developing AI'driven automation strategies, leading quality assurance procedures, managing cross-functional teams, and collaborating with stakeholders and IT colleagues for business success. </strong>
+Mechatronic Engineer with 8+ years of experience delivering high-technical engineering solutions across 21+ impactful projects for diverse international clients. With expertise in full-stack development, automation engineering and quality assurance, I'm adept at creating innovative technology solutions, developing AI-driven automation strategies, leading quality assurance procedures, managing cross-functional teams, and collaborating with stakeholders and IT colleagues for business success. </strong>
 
 
 #### * 🌍  I'm based in México, Querétaro.
