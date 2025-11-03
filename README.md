@@ -34,15 +34,15 @@
 <br>
 
  <strong> 
-Mechatronic Engineer with 8+ years of experience delivering high-technical engineering solutions across 14+ impactful projects for diverse international clients. Expertise spans full-stack development, quality assurance, and automation engineering, with a proven track record in designing cutting-edge technology solutions, implementing automation strategies, leading quality assurance processes, managing cross-functional teams, and collaborating with stakeholders for business success. </strong>
+Mechatronic Engineer with 8+ years of experience delivering high-technical engineering solutions across 21+ impactful projects for diverse international clients. With expertise in full-stack development, automation engineering and quality assurance, I'm adept at creating innovative technology solutions, developing AI'driven automation strategies, leading quality assurance procedures, managing cross-functional teams, and collaborating with stakeholders and IT colleagues for business success. </strong>
 
 
 #### * 🌍  I'm based in México, Querétaro.
 #### * 🖥️  See my portfolio at: [https://engineerick-portfolio.vercel.app/](https://engineerick-portfolio.vercel.app/)
 #### * ✉️  Alternatively you can contact me at: [erickbarcena00@gmail.com](mailto:erickbarcena00@gmail.com)
-#### * 🧠  I'm currently learning: Amason Web Services (AWS).
+#### * 🧠  I'm currently learning: More about Amason Web Services (AWS).
 #### * 🤝  I'm open to collaborate on open source and private projects.
-#### * ⚡  I'm currently looking to contribute with people and business.
+#### * ⚡  I'm currently looking to contribute with people and businesses.
 
 
 
