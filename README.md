@@ -140,9 +140,10 @@ Mechatronic Engineer with 8+ years of experience delivering high-technical engin
 ![Static Badge](https://img.shields.io/badge/Unilever--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/Alpina--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/Mercedes--yellow?style=social)
-![Static Badge](https://img.shields.io/badge/Lala--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/Kellanova--yellow?style=social)
-
+![Static Badge](https://img.shields.io/badge/Bimbo--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Postobon--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Lala--yellow?style=social)
 
 
 ### Certifications:
