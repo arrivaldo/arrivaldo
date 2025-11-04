@@ -148,7 +148,7 @@ Mechatronic Engineer with 8+ years of experience delivering high-technical engin
 
 ### Certifications:
 ![Static Badge](https://img.shields.io/badge/Pega%20System%20Architect--yellow?style=social)
-![Static Badge](https://img.shields.io/badge/Business%20Architect--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Certified%20Business%20Architect--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/CS50%20Intro%20to%20Computer%20Science--yellow?style=social)
 
