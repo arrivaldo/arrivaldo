@@ -140,8 +140,8 @@ Mechatronic Engineer with 8+ years of experience delivering high-technical engin
 ![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow?style=social)
 
 ### Github Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&show_icons=true&theme=transparent)](https://github.com/arrivaldo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrivaldo&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrival&show_icons=true&theme=transparent)](https://github.com/arrivaldo/github-readme-stats)
 
 
 <!--- trophy (start) -->
