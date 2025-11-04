@@ -26,10 +26,9 @@
 <a href="https://codepen.com/erickbarcena" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<!--
 <a href="https://www.youtube.com/@erickbarcena3414" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a> -->
+</a>
 </div>  
 
 <br>
