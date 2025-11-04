@@ -142,8 +142,8 @@ Mechatronic Engineer with 8+ years of experience delivering high-technical engin
 ### Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrivaldo&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&show_icons=true&theme=transparent)](https://github.com/arrivaldo/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&show_icons=true)
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivaldo&commits_year=2020)
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
