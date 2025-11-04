@@ -133,11 +133,23 @@ Mechatronic Engineer with 8+ years of experience delivering high-technical engin
 ![Static Badge](https://img.shields.io/badge/FEMSA--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/CLARO%20360--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/MIRA--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Nestlé--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Heineken--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Mondelez--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Pepsico--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Unilever--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Alpina--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Mercedes--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Lala--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/Kellanova--yellow?style=social)
+
+
 
 ### Certifications:
 ![Static Badge](https://img.shields.io/badge/Pega%20System%20Architect--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/Business%20Architect--yellow?style=social)
 ![Static Badge](https://img.shields.io/badge/ISTQB%20Foundation%20Tester--yellow?style=social)
+![Static Badge](https://img.shields.io/badge/CS50%20Intro%20to%20Computer%20Science--yellow?style=social)
 
 ### Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrivaldo&layout=compact)
